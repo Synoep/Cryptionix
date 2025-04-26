@@ -1,0 +1,364 @@
+2025-04-26 00:39:03.529 info: Starting Deribit Trading System...
+2025-04-26 00:39:03.621 info: Server running on port 8080
+2025-04-26 00:39:03.622 info: WebSocket server available at ws://localhost:8080
+2025-04-26 00:39:04.871 error: Authentication error: Request failed with status code 400
+2025-04-26 00:39:04.872 error: Failed to initialize Deribit API: Request failed with status code 400
+2025-04-26 00:39:05.629 error: Failed to subscribe to example channels: WebSocket not connected
+2025-04-26 00:41:59.375 info: Starting Deribit Trading System...
+2025-04-26 00:41:59.433 info: Server running on port 8080
+2025-04-26 00:41:59.434 info: WebSocket server available at ws://localhost:8080
+2025-04-26 00:41:59.933 error: Authentication error: bad_request
+2025-04-26 00:41:59.935 error: Failed to initialize Deribit API: Authentication failed: bad_request
+2025-04-26 00:42:04.442 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:42:14.464 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:42:24.487 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:42:34.506 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:42:44.531 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:42:54.542 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:43:04.557 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:43:14.576 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:43:24.597 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:43:34.622 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:43:44.631 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:43:54.647 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:44:04.666 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:44:14.692 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:44:24.712 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:44:34.732 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:44:44.746 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:44:54.766 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:45:04.792 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:45:14.810 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:45:24.816 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:45:34.837 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:45:44.861 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:45:54.871 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:46:04.892 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:46:14.907 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:46:24.927 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:46:34.952 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:46:44.971 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:46:54.987 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 00:47:05.007 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 09:07:44.092 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 09:07:54.113 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 09:08:04.122 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 09:08:14.141 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 09:08:24.157 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 09:08:34.173 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 09:08:44.192 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 09:08:54.207 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 09:09:04.227 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 09:09:14.253 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 09:09:24.272 error: Failed to subscribe to example channels: API not properly initialized
+2025-04-26 09:11:38.013 info: Starting Deribit Trading System...
+2025-04-26 09:11:38.023 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 09:11:39.422 error: Authentication error - No response received from server
+2025-04-26 11:56:22.075 info: Starting Deribit Trading System...
+2025-04-26 11:56:22.077 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 11:56:22.818 error: Authentication error - No response received from server
+2025-04-26 11:56:22.819 info: Authentication attempt 1 failed. Retrying in 1000ms...
+2025-04-26 11:56:23.827 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 11:56:24.006 error: Authentication error - No response received from server
+2025-04-26 11:56:24.007 info: Authentication attempt 2 failed. Retrying in 2000ms...
+2025-04-26 11:56:26.008 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 11:56:26.187 error: Authentication error - No response received from server
+2025-04-26 11:56:26.188 info: Authentication attempt 3 failed. Retrying in 4000ms...
+2025-04-26 11:56:30.198 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 11:56:30.563 error: Authentication error - No response received from server
+2025-04-26 11:56:30.564 info: Authentication attempt 4 failed. Retrying in 8000ms...
+2025-04-26 11:56:38.573 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 11:56:38.926 error: Authentication error - No response received from server
+2025-04-26 11:56:38.927 info: Authentication attempt 5 failed. Retrying in 16000ms...
+2025-04-26 11:56:54.942 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 11:56:55.878 error: Authentication error - No response received from server
+2025-04-26 11:56:55.879 error: Authentication failed after 5 attempts
+2025-04-26 11:56:55.880 error: Failed to initialize Deribit API: Authentication failed: No response from server
+2025-04-26 11:56:55.888 info: Server running on port 8080
+2025-04-26 11:56:55.888 info: WebSocket server available at ws://localhost:8080
+2025-04-26 11:56:55.888 warn: Subscription attempt 1 failed. Retrying in 2000ms...
+2025-04-26 11:56:57.897 warn: Subscription attempt 2 failed. Retrying in 2000ms...
+2025-04-26 11:56:59.911 warn: Subscription attempt 3 failed. Retrying in 2000ms...
+2025-04-26 11:57:01.923 warn: Subscription attempt 4 failed. Retrying in 2000ms...
+2025-04-26 11:57:03.932 warn: Subscription attempt 5 failed. Retrying in 2000ms...
+2025-04-26 12:02:16.001 info: Starting Deribit Trading System...
+2025-04-26 12:02:16.753 error: Failed to reach Deribit API server
+2025-04-26 12:02:16.754 info: Authentication attempt 1 failed. Retrying in 2000ms...
+2025-04-26 12:02:18.942 error: Failed to reach Deribit API server
+2025-04-26 12:02:18.943 info: Authentication attempt 2 failed. Retrying in 4000ms...
+2025-04-26 12:02:23.330 error: Failed to reach Deribit API server
+2025-04-26 12:02:23.330 info: Authentication attempt 3 failed. Retrying in 8000ms...
+2025-04-26 12:02:31.714 error: Failed to reach Deribit API server
+2025-04-26 12:02:31.715 info: Authentication attempt 4 failed. Retrying in 16000ms...
+2025-04-26 12:02:48.086 error: Failed to reach Deribit API server
+2025-04-26 12:02:48.086 info: Authentication attempt 5 failed. Retrying in 32000ms...
+2025-04-26 12:03:20.457 error: Failed to reach Deribit API server
+2025-04-26 12:05:24.618 info: Starting Deribit Trading System...
+2025-04-26 12:05:24.627 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:05:24.627 info: DNS resolution completed in 4.92ms
+2025-04-26 12:05:24.998 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:05:24.998 info: Authentication attempt 1 failed. Retrying in 2000ms...
+2025-04-26 12:05:27.009 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:05:27.011 info: DNS resolution completed in 2.07ms
+2025-04-26 12:05:27.196 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:05:27.197 info: Authentication attempt 2 failed. Retrying in 4000ms...
+2025-04-26 12:05:31.210 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:05:31.210 info: DNS resolution completed in 5.00ms
+2025-04-26 12:05:31.576 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:05:31.578 info: Authentication attempt 3 failed. Retrying in 8000ms...
+2025-04-26 12:05:39.597 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:05:39.597 info: DNS resolution completed in 6.47ms
+2025-04-26 12:05:39.956 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:05:39.957 info: Authentication attempt 4 failed. Retrying in 16000ms...
+2025-04-26 12:05:55.976 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:05:55.976 info: DNS resolution completed in 6.59ms
+2025-04-26 12:05:56.347 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:05:56.347 info: Authentication attempt 5 failed. Retrying in 32000ms...
+2025-04-26 12:06:28.368 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:06:28.369 info: DNS resolution completed in 7.03ms
+2025-04-26 12:06:28.726 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:07:19.091 info: Starting Deribit Trading System...
+2025-04-26 12:07:19.099 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:07:19.099 info: DNS resolution completed in 5.16ms
+2025-04-26 12:07:19.482 warn: Connectivity check attempt 1 failed, retrying in 2670.0547782037133ms
+2025-04-26 12:07:22.401 warn: Connectivity check attempt 2 failed, retrying in 4764.660231606913ms
+2025-04-26 12:07:27.531 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:07:27.532 info: Authentication attempt 1 failed. Retrying in 2323.139421678447ms...
+2025-04-26 12:07:29.860 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:07:29.860 info: DNS resolution completed in 0.95ms
+2025-04-26 12:07:30.068 warn: Connectivity check attempt 1 failed, retrying in 2112.3709456367205ms
+2025-04-26 12:07:32.398 warn: Connectivity check attempt 2 failed, retrying in 4455.944033699834ms
+2025-04-26 12:07:37.656 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:07:37.657 info: Authentication attempt 2 failed. Retrying in 4665.084776098498ms...
+2025-04-26 12:07:42.329 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:07:42.329 info: DNS resolution completed in 0.89ms
+2025-04-26 12:07:42.556 warn: Connectivity check attempt 1 failed, retrying in 2840.021026545108ms
+2025-04-26 12:07:45.845 warn: Connectivity check attempt 2 failed, retrying in 4122.603026235001ms
+2025-04-26 12:07:50.786 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:07:50.786 info: Authentication attempt 3 failed. Retrying in 8745.580309118588ms...
+2025-04-26 12:07:59.541 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:07:59.541 info: DNS resolution completed in 1.51ms
+2025-04-26 12:07:59.916 warn: Connectivity check attempt 1 failed, retrying in 2953.7921850224193ms
+2025-04-26 12:08:03.057 warn: Connectivity check attempt 2 failed, retrying in 4897.6474624091725ms
+2025-04-26 12:08:08.304 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:08:08.305 info: Authentication attempt 4 failed. Retrying in 16599.109620800045ms...
+2025-04-26 12:08:24.915 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:08:24.916 info: DNS resolution completed in 6.84ms
+2025-04-26 12:08:25.274 warn: Connectivity check attempt 1 failed, retrying in 2263.5226023670252ms
+2025-04-26 12:08:27.711 warn: Connectivity check attempt 2 failed, retrying in 4380.0174571012385ms
+2025-04-26 12:08:32.453 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:08:32.454 info: Authentication attempt 5 failed. Retrying in 32494.549841538334ms...
+2025-04-26 12:09:04.967 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:09:04.968 info: DNS resolution completed in 7.38ms
+2025-04-26 12:09:05.333 warn: Connectivity check attempt 1 failed, retrying in 2895.890052109834ms
+2025-04-26 12:09:08.413 warn: Connectivity check attempt 2 failed, retrying in 4686.906671737424ms
+2025-04-26 12:09:13.449 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:09:13.450 info: Authentication attempt 6 failed. Retrying in 64376.20245107558ms...
+2025-04-26 12:10:17.834 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:10:17.835 info: DNS resolution completed in 6.28ms
+2025-04-26 12:10:18.208 warn: Connectivity check attempt 1 failed, retrying in 2634.3630706897ms
+2025-04-26 12:10:21.033 warn: Connectivity check attempt 2 failed, retrying in 4070.836494745477ms
+2025-04-26 12:10:25.458 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:10:25.459 info: Authentication attempt 7 failed. Retrying in 128147.11856065845ms...
+2025-04-26 12:12:33.615 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:12:33.615 info: DNS resolution completed in 6.39ms
+2025-04-26 12:12:33.996 warn: Connectivity check attempt 1 failed, retrying in 2874.2791432614845ms
+2025-04-26 12:12:37.064 warn: Connectivity check attempt 2 failed, retrying in 4258.016995455982ms
+2025-04-26 12:12:41.684 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:12:41.687 info: Authentication attempt 8 failed. Retrying in 256733.7977884027ms...
+2025-04-26 12:15:22.442 info: Starting Deribit Trading System...
+2025-04-26 12:15:22.448 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:15:22.448 info: DNS resolution completed in 4.81ms
+2025-04-26 12:15:22.814 warn: Connectivity check attempt 1 failed, retrying in 2590.052793607404ms
+2025-04-26 12:15:25.584 warn: Connectivity check attempt 2 failed, retrying in 4499.746561091407ms
+2025-04-26 12:15:30.428 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:15:30.428 info: Authentication attempt 1 failed. Retrying in 2628.974383870045ms...
+2025-04-26 12:15:33.068 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:15:33.069 info: DNS resolution completed in 2.27ms
+2025-04-26 12:15:33.256 warn: Connectivity check attempt 1 failed, retrying in 2582.3928275738726ms
+2025-04-26 12:15:36.196 warn: Connectivity check attempt 2 failed, retrying in 4520.015166236378ms
+2025-04-26 12:15:40.904 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:15:40.905 info: Authentication attempt 2 failed. Retrying in 4345.272468755211ms...
+2025-04-26 12:15:45.257 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:15:45.258 info: DNS resolution completed in 1.44ms
+2025-04-26 12:15:45.616 warn: Connectivity check attempt 1 failed, retrying in 2380.763345789435ms
+2025-04-26 12:15:48.185 warn: Connectivity check attempt 2 failed, retrying in 4980.9853023384985ms
+2025-04-26 12:15:53.572 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:15:53.573 info: Authentication attempt 3 failed. Retrying in 8198.414876608691ms...
+2025-04-26 12:16:01.776 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:16:01.777 info: DNS resolution completed in 1.41ms
+2025-04-26 12:16:02.128 warn: Connectivity check attempt 1 failed, retrying in 2374.273372534705ms
+2025-04-26 12:16:04.684 warn: Connectivity check attempt 2 failed, retrying in 4042.3347143035985ms
+2025-04-26 12:16:09.088 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:16:09.089 info: Authentication attempt 4 failed. Retrying in 16567.518420747918ms...
+2025-04-26 12:16:25.671 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:16:25.671 info: DNS resolution completed in 5.02ms
+2025-04-26 12:16:26.619 warn: Connectivity check attempt 1 failed, retrying in 2537.135667805187ms
+2025-04-26 12:16:29.431 warn: Connectivity check attempt 2 failed, retrying in 4869.855966496445ms
+2025-04-26 12:16:34.672 warn: Circuit breaker opened due to consecutive failures
+2025-04-26 12:16:34.673 error: Failed to reach Deribit API server socket hang up
+2025-04-26 12:16:34.673 info: Authentication attempt 5 failed. Retrying in 32410.021235184475ms...
+2025-04-26 12:17:07.087 info: Authentication attempt 6 failed. Retrying in 64044.95418084497ms...
+2025-04-26 12:20:27.619 info: Starting Deribit Trading System...
+2025-04-26 12:20:27.629 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:20:27.629 info: DNS resolution completed in 7.08ms
+2025-04-26 12:20:28.053 info: API connectivity check completed in 423.36ms
+2025-04-26 12:20:28.054 info: Successfully connected to Deribit API server
+2025-04-26 12:20:28.055 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:20:28.431 error: Authentication error - Status: 400
+2025-04-26 12:20:28.432 error: Error response data:
+2025-04-26 12:20:28.432 info: Authentication attempt 1 failed. Retrying in 2876.443192797852ms...
+2025-04-26 12:20:31.321 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:20:31.322 info: DNS resolution completed in 2.42ms
+2025-04-26 12:20:31.535 info: API connectivity check completed in 212.24ms
+2025-04-26 12:20:31.535 info: Successfully connected to Deribit API server
+2025-04-26 12:20:31.535 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:20:31.731 error: Authentication error - Status: 400
+2025-04-26 12:20:31.732 error: Error response data:
+2025-04-26 12:20:31.732 info: Authentication attempt 2 failed. Retrying in 4407.9251548367865ms...
+2025-04-26 12:20:36.149 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:20:36.150 info: DNS resolution completed in 1.38ms
+2025-04-26 12:20:36.532 info: API connectivity check completed in 382.07ms
+2025-04-26 12:20:36.533 info: Successfully connected to Deribit API server
+2025-04-26 12:20:36.534 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:20:36.905 error: Authentication error - Status: 400
+2025-04-26 12:20:36.906 error: Error response data:
+2025-04-26 12:20:36.907 info: Authentication attempt 3 failed. Retrying in 8529.403942646102ms...
+2025-04-26 12:20:45.439 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:20:45.440 info: DNS resolution completed in 1.68ms
+2025-04-26 12:20:45.841 info: API connectivity check completed in 400.29ms
+2025-04-26 12:20:45.842 info: Successfully connected to Deribit API server
+2025-04-26 12:20:45.843 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:20:46.213 error: Authentication error - Status: 400
+2025-04-26 12:20:46.214 error: Error response data:
+2025-04-26 12:20:46.215 info: Authentication attempt 4 failed. Retrying in 16687.495240026252ms...
+2025-04-26 12:21:02.921 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:21:02.922 info: DNS resolution completed in 8.03ms
+2025-04-26 12:21:03.318 info: API connectivity check completed in 395.68ms
+2025-04-26 12:21:03.318 info: Successfully connected to Deribit API server
+2025-04-26 12:21:03.318 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:21:03.682 error: Authentication error - Status: 400
+2025-04-26 12:21:03.682 error: Error response data:
+2025-04-26 12:21:03.682 info: Authentication attempt 5 failed. Retrying in 32246.75466474004ms...
+2025-04-26 12:21:35.949 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:21:35.949 info: DNS resolution completed in 6.05ms
+2025-04-26 12:21:36.347 info: API connectivity check completed in 397.96ms
+2025-04-26 12:21:36.348 info: Successfully connected to Deribit API server
+2025-04-26 12:21:36.348 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:21:36.706 error: Authentication error - Status: 400
+2025-04-26 12:21:36.707 error: Error response data:
+2025-04-26 12:21:36.709 info: Authentication attempt 6 failed. Retrying in 64675.08555761048ms...
+2025-04-26 12:22:41.400 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:22:41.400 info: DNS resolution completed in 5.63ms
+2025-04-26 12:22:41.993 info: API connectivity check completed in 592.23ms
+2025-04-26 12:22:41.993 info: Successfully connected to Deribit API server
+2025-04-26 12:22:41.994 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:22:42.361 error: Authentication error - Status: 400
+2025-04-26 12:22:42.362 error: Error response data:
+2025-04-26 12:22:42.363 info: Authentication attempt 7 failed. Retrying in 128172.24188309618ms...
+2025-04-26 12:23:48.812 info: Starting Deribit Trading System...
+2025-04-26 12:23:48.829 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:23:48.831 info: DNS resolution completed in 10.69ms
+2025-04-26 12:23:49.258 info: API connectivity check completed in 426.18ms
+2025-04-26 12:23:49.259 info: Successfully connected to Deribit API server
+2025-04-26 12:23:49.261 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:23:49.634 error: Authentication error - Status: 400
+2025-04-26 12:23:49.634 error: Error response data:
+2025-04-26 12:23:49.635 info: Authentication attempt 1 failed. Retrying in 2143.8833296549506ms...
+2025-04-26 12:23:51.784 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:23:51.785 info: DNS resolution completed in 2.12ms
+2025-04-26 12:23:52.003 info: API connectivity check completed in 217.07ms
+2025-04-26 12:23:52.004 info: Successfully connected to Deribit API server
+2025-04-26 12:23:52.005 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:23:52.198 error: Authentication error - Status: 400
+2025-04-26 12:23:52.198 error: Error response data:
+2025-04-26 12:23:52.198 info: Authentication attempt 2 failed. Retrying in 4486.383791450167ms...
+2025-04-26 12:23:56.692 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:23:56.693 info: DNS resolution completed in 1.06ms
+2025-04-26 12:23:57.066 info: API connectivity check completed in 372.77ms
+2025-04-26 12:23:57.066 info: Successfully connected to Deribit API server
+2025-04-26 12:23:57.066 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:23:57.430 error: Authentication error - Status: 400
+2025-04-26 12:23:57.431 error: Error response data:
+2025-04-26 12:23:57.432 info: Authentication attempt 3 failed. Retrying in 8103.477675032096ms...
+2025-04-26 12:24:05.543 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:24:05.543 info: DNS resolution completed in 2.06ms
+2025-04-26 12:24:05.918 info: API connectivity check completed in 374.56ms
+2025-04-26 12:24:05.919 info: Successfully connected to Deribit API server
+2025-04-26 12:24:05.919 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:24:06.284 error: Authentication error - Status: 400
+2025-04-26 12:24:06.285 error: Error response data:
+2025-04-26 12:24:06.286 info: Authentication attempt 4 failed. Retrying in 16665.105140000323ms...
+2025-04-26 12:24:22.973 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:24:22.974 info: DNS resolution completed in 6.29ms
+2025-04-26 12:24:23.358 info: API connectivity check completed in 383.78ms
+2025-04-26 12:24:23.358 info: Successfully connected to Deribit API server
+2025-04-26 12:24:23.358 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:24:23.720 error: Authentication error - Status: 400
+2025-04-26 12:24:23.721 error: Error response data:
+2025-04-26 12:24:23.721 info: Authentication attempt 5 failed. Retrying in 32739.37419250378ms...
+2025-04-26 12:24:56.470 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:24:56.470 info: DNS resolution completed in 5.20ms
+2025-04-26 12:24:56.848 info: API connectivity check completed in 377.31ms
+2025-04-26 12:24:56.849 info: Successfully connected to Deribit API server
+2025-04-26 12:24:56.849 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:24:57.230 error: Authentication error - Status: 400
+2025-04-26 12:24:57.230 error: Error response data:
+2025-04-26 12:24:57.231 info: Authentication attempt 6 failed. Retrying in 64702.640737083944ms...
+2025-04-26 12:25:35.262 info: Starting Deribit Trading System...
+2025-04-26 12:25:35.270 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:25:35.270 info: DNS resolution completed in 4.80ms
+2025-04-26 12:25:35.757 info: API connectivity check completed in 486.95ms
+2025-04-26 12:25:35.757 info: Successfully connected to Deribit API server
+2025-04-26 12:25:35.758 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:25:36.053 error: Authentication error - Status: 400
+2025-04-26 12:25:36.054 error: Error response data:
+2025-04-26 12:25:36.055 info: Authentication attempt 1 failed. Retrying in 2427.612874803519ms...
+2025-04-26 12:25:38.487 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:25:38.488 info: DNS resolution completed in 1.10ms
+2025-04-26 12:25:38.643 info: API connectivity check completed in 155.38ms
+2025-04-26 12:25:38.644 info: Successfully connected to Deribit API server
+2025-04-26 12:25:38.644 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:25:38.793 error: Authentication error - Status: 400
+2025-04-26 12:25:38.793 error: Error response data:
+2025-04-26 12:25:38.793 info: Authentication attempt 2 failed. Retrying in 4547.546732217044ms...
+2025-04-26 12:25:43.345 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:25:43.345 info: DNS resolution completed in 0.36ms
+2025-04-26 12:25:43.498 info: API connectivity check completed in 152.86ms
+2025-04-26 12:25:43.499 info: Successfully connected to Deribit API server
+2025-04-26 12:25:43.499 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:25:43.792 error: Authentication error - Status: 400
+2025-04-26 12:25:43.793 error: Error response data:
+2025-04-26 12:25:43.793 info: Authentication attempt 3 failed. Retrying in 8035.655925799859ms...
+2025-04-26 12:25:51.837 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:25:51.837 info: DNS resolution completed in 1.85ms
+2025-04-26 12:25:51.995 info: API connectivity check completed in 158.05ms
+2025-04-26 12:25:51.996 info: Successfully connected to Deribit API server
+2025-04-26 12:25:51.997 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:25:52.296 error: Authentication error - Status: 400
+2025-04-26 12:25:52.296 error: Error response data:
+2025-04-26 12:25:52.296 info: Authentication attempt 4 failed. Retrying in 16869.011631546255ms...
+2025-04-26 12:26:09.186 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:26:09.188 info: DNS resolution completed in 7.23ms
+2025-04-26 12:26:09.352 info: API connectivity check completed in 163.79ms
+2025-04-26 12:26:09.352 info: Successfully connected to Deribit API server
+2025-04-26 12:26:09.353 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:26:09.646 error: Authentication error - Status: 400
+2025-04-26 12:26:09.646 error: Error response data:
+2025-04-26 12:26:09.646 info: Authentication attempt 5 failed. Retrying in 32397.100601555838ms...
+2025-04-26 12:26:42.055 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:26:42.055 info: DNS resolution completed in 5.41ms
+2025-04-26 12:26:42.213 info: API connectivity check completed in 157.88ms
+2025-04-26 12:26:42.213 info: Successfully connected to Deribit API server
+2025-04-26 12:26:42.213 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:26:42.513 error: Authentication error - Status: 400
+2025-04-26 12:26:42.514 error: Error response data:
+2025-04-26 12:26:42.516 info: Authentication attempt 6 failed. Retrying in 64825.27521464937ms...
+2025-04-26 12:27:47.357 info: DNS resolution successful: 1.0.0.1
+2025-04-26 12:27:47.359 info: DNS resolution completed in 9.79ms
+2025-04-26 12:27:47.988 info: API connectivity check completed in 627.71ms
+2025-04-26 12:27:47.988 info: Successfully connected to Deribit API server
+2025-04-26 12:27:47.989 info: Attempting authentication with API key: 2Lq_...
+2025-04-26 12:27:48.306 error: Authentication error - Status: 400
+2025-04-26 12:27:48.307 error: Error response data:
+2025-04-26 12:27:48.307 info: Authentication attempt 7 failed. Retrying in 128830.39285083319ms...

@@ -1,0 +1,26 @@
+{
+  "name": "deribit-trading-system",
+  "version": "1.0.0",
+  "description": "High-performance order execution and management system for Deribit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ws": "^8.14.2",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.2",
+    "winston": "^3.11.0",
+    "moment": "^2.29.4",
+    "cli-table3": "^0.6.3",
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.6",
+    "chart.js": "3.5.1",
+    "chartjs-node-canvas": "4.1.6"
+  },
+  "private": true
+}
